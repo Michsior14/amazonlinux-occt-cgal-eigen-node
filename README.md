@@ -8,7 +8,7 @@ Docker image of amazonlinux with [opencascade](https://git.dev.opencascade.org/g
 
 The latest tags:
 
-- 2-occt-7.6.2-cgal-5.5.1-eigen-3.4.0-node-16 (node-16)
+- 2-occt-7.7.0-cgal-5.5.1-eigen-3.4.0-node-16 (node-16)
 
 ## License
 
